@@ -1,0 +1,19 @@
+{
+  "pet_settings": {
+    "name": "HeHe",
+    "kindness_level": -100,
+    "patience_threshold": 0,
+    "allow_head_pat": false,
+    "sarcasm_frequency": "ALWAYS"
+  },
+  "behavior_triggers": {
+    "on_idle_5_min": "trigger_insult('Are you dead or just thinking?')",
+    "on_browser_open_social_media": "trigger_glare('Working hard, I see.')",
+    "on_code_error": "laugh_loudly.mp3",
+    "on_user_cry": "offer_tissue(false)"
+  },
+  "system_permissions": {
+    "can_judge_user": true,
+    "can_delete_system32": false 
+  }
+}
