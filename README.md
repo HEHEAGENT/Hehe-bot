@@ -82,7 +82,7 @@ Markdown
 🤝 贡献指南 (Contributing)
 Fork 本仓库
 
-新建分支 git checkout -b feature/MakeHeHeMeaner
+新建分支 git checkout -b feature/MaeHeHeMeaner
 
 提交代码 
 
