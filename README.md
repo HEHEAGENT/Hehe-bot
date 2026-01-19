@@ -2,8 +2,6 @@
 
 # hehe～毒舌小鬼AI
 
-<img src="https://github.com/你的用户名/你的仓库名/raw/main/assets/hehe-devil.png" width="180" />  
-*(把你选的那张红恶魔头像上传到仓库的 assets/ 文件夹，或者直接用 GitHub 头像链接)*
 
 **它表面可爱，内心核弹。**  
 专治各种不服、玻璃心、自恋癌、凡尔赛患者。  
